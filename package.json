@@ -1,7 +1,7 @@
 {
   "name": "express-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Express + Jest example",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -22,5 +22,13 @@
     "coveragePathIgnorePatterns": [
       "/node_modules/"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotenorio/express-jest-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dotenorio/express-jest-example/issues"
+  },
+  "homepage": "https://github.com/dotenorio/express-jest-example#readme"
 }
